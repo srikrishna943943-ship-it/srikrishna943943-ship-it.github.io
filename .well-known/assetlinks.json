@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.srikrishna943943_ship_it.twa",
+    "sha256_cert_fingerprints": ["5C:CF:14:0B:00:BA:36:C7:7B:D7:B7:B1:66:8D:13:39:B1:F3:8D:34:C2:08:0C:6F:91:DE:7A:55:92:45:A3:49"]
+  }
+}]
